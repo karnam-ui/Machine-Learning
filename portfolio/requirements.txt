@@ -1,0 +1,20 @@
+next
+react
+react-dom
+
+three
+@react-three/fiber
+@react-three/drei
+@react-three/postprocessing
+
+framer-motion
+gsap
+
+tailwindcss
+clsx
+
+leva (optional debug UI)
+
+zustand (optional state)
+
+three-stdlib
