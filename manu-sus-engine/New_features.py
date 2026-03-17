@@ -1,9 +1,3 @@
-import pandas as pd
-import os
-from pathlib import Path
-
-# Load the Summary.csv file
-summary_df = pd.read_csv(r'/Users/suhaas/Machine-Learning/manu-sus-engine/Summary.csv')
 
 # Initialize lists to store average and max values
 avg_humidity_list = []
